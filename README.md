@@ -2,7 +2,7 @@
 
 在Python官方网站下载一个32位版的 Python-Embed的软件包，该软件包非常的小
 
-![下载python](https://github.com/cicadasworld/portable-pyenv/blob/master/screenshot/download.png)
+![下载python](https://raw.githubusercontent.com/cicadasworld/portable-pyenv/master/screenshot/download.png)
 
 
 
@@ -10,7 +10,7 @@
 
 从https://bootstrap.pypa.io/get-pip.py下载到 get-pip.py 放到刚刚的运行环境目录中
 
-![python目录](https://github.com/cicadasworld/portable-pyenv/blob/master/screenshot/python.png)
+![python目录](https://raw.githubusercontent.com/cicadasworld/portable-pyenv/master/screenshot/python.png)
 
 打开python38._pth，去掉 import site 这行命令前的 # 号
 
